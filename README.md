@@ -15,7 +15,7 @@ Este projeto é uma API desenvolvida para uma plataforma de **Upskilling/Reskill
 
 O projeto foi construído utilizando um *stack* moderno e robusto, centrado no ecossistema Java/Spring Boot.
 
-* **Java 21+**
+* **Java 24+** (funciona a partir da 17+)
 * **Spring Boot 3+**
 * **Spring Data JPA**
 * **H2 Database** (para ambiente de desenvolvimento e testes)
