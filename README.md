@@ -47,9 +47,9 @@ Siga os passos abaixo para rodar a aplicação localmente:
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [https://github.com/SEU_REPOSITORIO](https://github.com/SEU_REPOSITORIO)
+    git clone https://github.com/gardim1/globasolution-ddd-mentor-2025
     ```
-2.  **Abrir no IntelliJ IDEA** (ou sua IDE de preferência).
+2.  **Abrir no IntelliJ IDEA**.
 3.  **Executar a aplicação** via Maven:
     ```bash
     mvn spring-boot:run
